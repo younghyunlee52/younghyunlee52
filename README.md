@@ -9,7 +9,4 @@ My work combines causal inference and computational social science with survey r
 - **Computational text analysis:** Applying natural language processing to parliamentary speeches and news coverage to study minority representation, polarization, and political identities.
 - **Causal inference:** Using experimental designs, matching, and linked survey and contextual data to study political attitudes and behavior.
 
-I work with R and Python, and use R Markdown and LaTeX for research and teaching.
-
-🌐 [Website](https://younghyunlee.com/) ·
-✉️ [Email](mailto:yl78@illinois.edu)
+I work with R and Python, and use R Markdown and LaTeX for research and teaching. You can find more about me at [younghyunlee.com](https://younghyunlee.com/).
