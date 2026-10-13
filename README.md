@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Younghyun Lee 👋
 
-<!--
-**younghyunlee52/younghyunlee52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ph.D. candidate in Political Science at the University of Illinois
+Urbana-Champaign. I study immigrant political integration, intergroup
+relations, and political belonging in Europe and other Western democracies.
 
-Here are some ideas to get you started:
+My work combines causal inference and computational social science
+with survey research and fieldwork. My methodological interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI-mediated experiments:** Building chat-based experiments that use
+  large language models as scripted interaction partners to study
+  intergroup contact and political belonging.
+- **Computational text analysis:** Applying natural language processing
+  to parliamentary speeches and news coverage to study minority
+  representation, polarization, and political identities.
+- **Causal inference:** Using experimental designs, matching, and linked
+  survey and contextual data to study political attitudes and behavior.
+
+I work with R and Python, and use R Markdown and LaTeX for research
+and teaching.
+
+I'm on the academic job market for 2026–2027.
+
+🌐 [Website](https://younghyunlee.com/) ·
+✉️ [Email](mailto:yl78@illinois.edu)
