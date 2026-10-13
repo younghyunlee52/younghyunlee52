@@ -1,8 +1,7 @@
 # Hi, I'm Younghyun Lee 👋
 
 I'm a Ph.D. candidate in Political Science at the University of Illinois
-Urbana-Champaign. I study immigrant political integration, intergroup
-relations, and political belonging in Europe and other Western democracies.
+Urbana-Champaign. I study the political behaviors and integration of immigrants focusing on the case of Europe.
 
 My work combines causal inference and computational social science
 with survey research and fieldwork. My methodological interests include:
