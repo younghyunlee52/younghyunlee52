@@ -15,10 +15,7 @@ with survey research and fieldwork. My methodological interests include:
 - **Causal inference:** Using experimental designs, matching, and linked
   survey and contextual data to study political attitudes and behavior.
 
-I work with R and Python, and use R Markdown and LaTeX for research
-and teaching.
-
-I'm on the academic job market for 2026–2027.
+I work with R and Python, and use R Markdown and LaTeX for research and teaching.
 
 🌐 [Website](https://younghyunlee.com/) ·
 ✉️ [Email](mailto:yl78@illinois.edu)
